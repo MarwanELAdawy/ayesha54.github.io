@@ -17,7 +17,9 @@
   link: https://attribes.com/
   job_title: Ruby on Rails Developer
   dates: Dec 2018 - Jan 2019
-  quote: > # this will include new lines to allow paragraphs
+  quote: >
+   Attribes Solutions is Software Services Providers
+  description: | # this will include new lines to allow paragraphs
     Responsible for formulating solutions, designing and developing highly distributed Ruby on Rails web applications for In-house products as well as different client-based products.
 
 - layout: left
@@ -26,4 +28,6 @@
   job_title: Web Design and Development
   dates: July 2017 - Dec 2018
   quote: >
+   Freelancing Platform
+  description: | # this will include new lines to allow paragraphs
     Provides Web Design and Development services in Ruby on Rails, HTML, CSS, Bootstrap, Javascript, PHP, Mysql.
