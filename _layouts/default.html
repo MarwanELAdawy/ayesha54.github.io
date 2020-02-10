@@ -16,10 +16,6 @@
 
       {%- include about.html -%}
 
-      {%- if site.data.projects.size > 0 -%}
-        {%- include projects.html -%}
-      {%- endif -%}
-
       {%- if site.data.experience.size > 0 -%}
         {%- include experience.html -%}
       {%- endif -%}
@@ -28,6 +24,18 @@
         {%- include education.html -%}
       {%- endif -%}
 
+      {%- if site.data.projects.size > 0 -%}
+        {%- include projects.html -%}
+      {%- endif -%}
+      {%- if site.data.achievements.size > 0 -%}
+        {%- include achievements.html -%}
+      {%- endif -%}
+      {%- if site.data.research.size > 0 -%}
+        {%- include research.html -%}
+      {%- endif -%}
+      {%- if site.data.activities.size > 0 -%}
+        {%- include activities.html -%}
+      {%- endif -%}
       {%- if site.more_content -%}
         {%- include more.html -%}
       {%- endif -%}

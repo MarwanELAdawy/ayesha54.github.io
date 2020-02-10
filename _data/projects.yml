@@ -3,45 +3,59 @@
   name: Securiti.ai (privaci.ai)
   link: https://securiti.ai
   quote: >
+    Research and Development on Privacy Ratings module.
+  description: |
     The AI-Powered PrivacyOps platform is a full-stack solution that operationalizes and simplifies privacy compliance using robotic automation and a natural language interface. These include:
-
-    Personal Data Finder and Owner Identifier
-    Data Request Fulfillment Automator
-    Secure Data Request Portal
-    Consent Lifecycle Manager
-    Third-Party Privacy Assessment
-    Third-Party Privacy Ratings
-    Privacy Assessment Automation
-
+    Personal Data Finder and Owner Identifier,
+    Data Request Fulfillment Automator,
+    Secure Data Request Portal,
+    Consent Lifecycle Manager,
+    Third-Party Privacy Assessment,
+    Third-Party Privacy Ratings, &
+    Privacy Assessment Automation.
     For more information, please visit www.privaci.ai
-
-- layout: left
-  name: Personal Practices
-  github: ayesha54?tab=repositories
-  quote: >
-    Simple examples for Docker and Kubernetes, Golang
-  
+     
 - layout: left
   name: Autotask
   quote: >
+    Meetings Management System 
+  description: |
     Meetings Management System takes meetings from hassle to harmony by managing meeting requests, attendees, schedules, agenda, minutes of meetings and related actions in Ruby on Rails while working at Attribes Solutions
 
 - layout: left
   name: Chefaholic 
   link: https://chefaholic.herokuapp.com/
   quote: >
-    Final Year Project (Web Application in Ruby on Rails)-[Testing Credentials: email: ayesha@example.com, password: 12345678]
+    Online Chef Hiring platform
+  description: |
+    Final Year Project (Web Application in Ruby on Rails)
+    [Testing Credentials: email: ayesha@example.com, password: 12345678]
     
 - layout: left
   name: Chat Application
   github: ayesha54/Chat-application
   quote: >
+    Web Chat Application
+  description: |
     Web Chat Application using Golang and Vue.js (personal small project to taste golang and vue.js_
-  
+
+- layout: left
+  name: Personal Practices
+  github: ayesha54?tab=repositories
+  quote: >
+    Simple examples for Docker and Kubernetes, Golang
+  description: |
+    Dockerizing Ruby on Rails Application, Dockerize and Deploye Golang Application, Deploye Guestbook Application Kubernetes example, Configmaps of Kubernetes example Deploye voting application through Kubernetes & Golang microservices.
+ 
 
 - layout: left
   name: DigitalTech
   github: ayesha54/DigitalTech
   quote: >
-    Simple Blog in PHP Laravel
+    Simple Blog in PHP Laravel to post articles
+
+- layout: left
+  name: EZSaman
+  quote: >
+    Android Application, Startup named EZSaman an Online Delivering Service
   
