@@ -35,13 +35,10 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  I am a young professional, graduated in **Computer Science** and having a year of working experience as a software research and development engineer at silicon valley’s startup named securiti.ai where I design and develop different small tools and microservices in Python and Golang, research about the cybersecurity and data protection regulatory compliances and frameworks such as CCPA and GDPR. 
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images
+  I have also worked with different programming languages, **front-end** technology stacks such as HTML, CSS, Bootstrap and javascript, **MVC** frameworks such as Laravel and Ruby on Rails in my whole internships and freelancing career. I am also familiar with the **DevOps** technologies such as Docker, Kubernetes and Ansible as I am always eager to learn and ready to take on new challenges and work with different technology stack. 
+
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -55,9 +52,8 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  Apart from professional information, I have been involved in different volunteering activities and have been a part of **The Citizen Organization** where I have volunteered in the Rahbar's Program for six weeks. I am a sports lover and love to play **Badminton** at Pakistan Sports Board, **Swimming** at Women Sports Complex and **Cycling** with GG Riders on every weekend. I am also really fond of **Traveling** and Hunza-Gilgit Baltistan is one of my favourite place to travel solo. I like to read books in my leisure time and stephen covey is one of my favourite writter.
+  My ultimate goals are to become a good programmer and travel around the world. I also write technical blogs on **Medium** in my leisure time.
 
 # Footer
 footer_show_references: true

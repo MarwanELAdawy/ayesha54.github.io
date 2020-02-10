@@ -20,7 +20,7 @@
   quote: >
     Meetings Management System 
   description: |
-    Meetings Management System takes meetings from hassle to harmony by managing meeting requests, attendees, schedules, agenda, minutes of meetings and related actions in Ruby on Rails while working at Attribes Solutions
+    Meetings Management System takes meetings from hassle to harmony by managing meeting requests, attendees, schedules, agenda, minutes of meetings and related actions in Ruby on Rails web application while working at Attribes Solutions
 
 - layout: left
   name: Chefaholic 
@@ -37,7 +37,7 @@
   quote: >
     Web Chat Application
   description: |
-    Web Chat Application using Golang and Vue.js (personal small project to taste golang and vue.js_
+    Web Chat Application using Golang and Vue.js (personal small project to taste golang and vue.js)
 
 - layout: left
   name: Personal Practices

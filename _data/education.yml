@@ -3,15 +3,20 @@
   name: Jinnah University for Women 
   dates: 2015-2018
   qualification: BSc. in Computer Science
+  link: https://cs.juw.edu.pk/computerscience.html
   quote: >
-    https://www.juw.edu.pk/  (Karachi,Pakistan)
+    
    # this will include new lines to allow paragraphs
   description: |
+    During my bachelor's program, With the help of the academic curriculum which included courses such as Programming Fundamentals, OOP, Databases, Data structures and Algorithms,  Operating Systems, Computer Networks and Cloud Computing, this program got me equipped with the complete theoretical knowledge of the field. I was very active in the class and labs, and also have been obsessing with self-learning that’s why I kept myself engaged in online training and courses which provides me with the edge in my academic career. I have developed different academic projects and make them available for the public on Github. I also worked as a web developer in different startups with the other university’s students which helps me to develop great leadership and communication skills as well as technical skills. 
+
 - layout: left
   name: Hayat-ul-Islam Girls Degree College
   dates: 2012-2014
   qualification: Higher Secondary School Certificate
-  description: |
+  quote: >
     Pre-Engineering - Mathematics, Physics, Chemistry
+  description: |
+    I always have been good in Mathematics and Physics, and I have thought other students after completing my high school studies.
    # this will include new lines to allow paragraphs
     
