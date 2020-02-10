@@ -1,9 +1,16 @@
 # Education Template
 - layout: left
-  name: Jinnah University for Women (Karachi,Pakistan)
+  name: Jinnah University for Women 
   dates: 2015-2018
   qualification: BSc. in Computer Science
   quote: >
-    https://www.juw.edu.pk/
+    https://www.juw.edu.pk/  (Karachi,Pakistan)
+  description: | # this will include new lines to allow paragraphs
+- layout: left
+  name: Hayat-ul-Islam Girls Degree College
+  dates: 2012-2014
+  qualification: Higher Secondary School Certificate (Pre-Engineering)
+  quote: > 
+    Pre-Engineering - Mathematics, Physics, Chemistry
   description: | # this will include new lines to allow paragraphs
     
