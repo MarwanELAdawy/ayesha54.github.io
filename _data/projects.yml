@@ -18,10 +18,7 @@
 - layout: left
   name: Autotask
   quote: >
-    Meetings Management System 
-  description: |
-    Meetings Management System takes meetings from hassle to harmony by managing meeting requests, attendees, schedules, agenda, minutes of meetings and related actions in Ruby on Rails web application while working at Attribes Solutions
-
+    Meetings Management System in Ruby on Rails while working at Attribes solutions.
 - layout: left
   name: Chefaholic 
   link: https://chefaholic.herokuapp.com/
@@ -35,9 +32,7 @@
   name: Chat Application
   github: ayesha54/Chat-application
   quote: >
-    Web Chat Application
-  description: |
-    Web Chat Application using Golang and Vue.js (personal small project to taste golang and vue.js)
+    Web Chat Application example using Golang and Vue.js.
 
 - layout: left
   name: Personal Practices
